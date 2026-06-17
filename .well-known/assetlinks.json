@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.vmh.mvvmjetpackcompose.dev",
+      "sha256_cert_fingerprints": [
+        "88:67:BD:48:E5:A2:B6:91:5E:D6:A2:C6:2D:61:1F:B1:50:A9:27:33:AB:1B:CD:22:32:84:52:9B:5C:3D:02:D3"
+      ]
+    }
+  }
+]
